@@ -1,2 +1,7 @@
+streamlit
 snscrape
+textblob
 pandas
+requests
+certifi
+nltk
